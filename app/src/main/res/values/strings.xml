@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yoga App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="know_more">Know more</string>
+    <string name="child_pose_description">Balasana also known as child\'s pose, is a gentle resting pose that stretches the hips, thighs, and legs while calming the mind and relieving stress and tension. Everyone needs a good resting pose and Child pose is an excellent one not just for beginners but for yoga practitioners of all levels.</string>
+    <string name="pose_name">pose name</string>
+    <string name="description">description</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+</resources>
